@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://neobiotics.github.io/Console-Quest-Website/sitemap.xml
