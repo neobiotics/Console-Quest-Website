@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Console Quest</title>
-    <link href="https://neobiotics.github.io/Console-Quest-Website/feed.xml" rel="self" />
-    <link href="https://neobiotics.github.io/Console-Quest-Website" />
+    <link href="https://consolequest.net/feed.xml" rel="self" />
+    <link href="https://consolequest.net" />
     <updated>2025-05-25T16:41:59+02:00</updated>
     <author>
         <name>Juri Steiner</name>
     </author>
-    <id>https://neobiotics.github.io/Console-Quest-Website</id>
+    <id>https://consolequest.net</id>
 
     <entry>
         <title>Console Quest #1: First Post Ever (No, Really)</title>
         <author>
             <name>Juri Steiner</name>
         </author>
-        <link href="https://neobiotics.github.io/Console-Quest-Website/console-quest-1-first-post-ever-no-really.html"/>
-        <id>https://neobiotics.github.io/Console-Quest-Website/console-quest-1-first-post-ever-no-really.html</id>
-        <media:content url="https://neobiotics.github.io/Console-Quest-Website/media/posts/2/matthieu-beaumont-iYnpYeyu57k-unsplash.jpg" medium="image" />
+        <link href="https://consolequest.net/console-quest-1-first-post-ever-no-really.html"/>
+        <id>https://consolequest.net/console-quest-1-first-post-ever-no-really.html</id>
+        <media:content url="https://consolequest.net/media/posts/2/matthieu-beaumont-iYnpYeyu57k-unsplash.jpg" medium="image" />
             <category term="truenas"/>
             <category term="selfhosting"/>
             <category term="introduction"/>
@@ -26,13 +26,13 @@
         <updated>2025-05-24T23:43:13+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://neobiotics.github.io/Console-Quest-Website/media/posts/2/matthieu-beaumont-iYnpYeyu57k-unsplash.jpg" alt="Dark datacenter with glowing green and red server LEDs, cables and hardware creating a cyberpunk atmosphere" />
+                        <img src="https://consolequest.net/media/posts/2/matthieu-beaumont-iYnpYeyu57k-unsplash.jpg" alt="Dark datacenter with glowing green and red server LEDs, cables and hardware creating a cyberpunk atmosphere" />
                     Hello World This is awkward. I’m starting a tech blog, but I’ve&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://neobiotics.github.io/Console-Quest-Website/media/posts/2/matthieu-beaumont-iYnpYeyu57k-unsplash.jpg" class="type:primaryImage" alt="Dark datacenter with glowing green and red server LEDs, cables and hardware creating a cyberpunk atmosphere" /></p>
+                    <p><img src="https://consolequest.net/media/posts/2/matthieu-beaumont-iYnpYeyu57k-unsplash.jpg" class="type:primaryImage" alt="Dark datacenter with glowing green and red server LEDs, cables and hardware creating a cyberpunk atmosphere" /></p>
                 <h1 id="hello-world">Hello World</h1>
 <p>This is awkward. I’m starting a tech blog, but I’ve never actually written a blog post before. Unless you count that LinkedIn rant about Burger King’s Pfand system where none of the staff knew they were supposed to take back reusable cups because apparently everyone just uses paper cups - which, let’s be honest, was peak content and deserved more engagement.</p><p>So here we are. My first real post. Ever.</p><h2 id="why-am-i-doing-this">Why Am I Doing This?</h2>
 <p>Good question. I spend way too much time tinkering with selfhosted services, Docker containers, and automation setups. Currently running dozens of containers across various services, and honestly, most of this happens in isolation - me, a Dockge interface, and an increasingly complex TrueNAS setup that probably uses more electricity than it should.</p><p>I figured: why not document this chaos? Maybe someone else is on the same journey. Maybe not. Either way, at least I’ll have a record of all the times I broke my setup and somehow fixed it at 2 AM.</p><h2 id="the-console-quest-name">The “Console Quest” Name</h2>
