@@ -5,6 +5,14 @@
 <loc>https://consolequest.net/</loc>
 </url>
 <url>
+<loc>https://consolequest.net/claude-code-docker.html</loc>
+<lastmod>2026-01-11T14:44:55+01:00</lastmod>
+<image:image>
+<image:loc>https://consolequest.net/media/posts/8/Gemini_Generated_Image_fqvcf6fqvcf6fqvc-1.png</image:loc>
+<image:title><![CDATA[Retro pixel art diagram showing Console Quest architecture: multiple computers connecting via SSH to a central Docker container displaying 'SSH ACCESS GRANTED', which connects to Claude Code API in the cloud]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://consolequest.net/console-quest-1-first-post-ever-no-really.html</loc>
 <lastmod>2025-11-22T20:43:20+01:00</lastmod>
 <image:image>
